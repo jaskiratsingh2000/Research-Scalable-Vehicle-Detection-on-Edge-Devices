@@ -3,7 +3,7 @@
 <p align="center"><i>A full report on my Research Internship work with <a href="https://www.iiitd.ac.in/arani">Prof. Arani Bhattacharya</a> at <a href="https://www.iiitd.ac.in">Indraprastha Institute of Information Technology Delhi(IIIT-Delhi)</a></i></p>
 
 <div align="center">
-    <a href="https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/blob/main/Assets/IIIT-Delhi%20Logo.png" width="300" alt="google-season-of-docs-with-chaoss"></a>
+    <a href="https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/blob/main/Assets/IIIT-Delhi%20Logo.png"> width="300" alt="google-season-of-docs-with-chaoss"></a>
     <h2>
     Creating a <a href="https://github.com/chaoss">CHAOSS</a> Community-wide Handbook
     </h2>
