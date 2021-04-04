@@ -11,6 +11,7 @@
 * [Project Advisor](#project-advisor)
 * [Weekly Updates](#weekly-updates)
 * [Final Verdict](#final-verdict)
+* [Footnotes](#footnotes)
 
 ### Project abstract
 The safety of smart cities can be improved by identifying vehicles that are violating traffic rules. While a lot of work has been done to design computer vision based algorithms for such detection, they do not currently scale well if done on a city-scale. The goal of this project is to make such algorithms scalable, by identifying ways of reducing the compute or using more intelligent scheduling of jobs on edge devices. This requires interest in systems work as well as some basic understanding of algorithms and computer networks.
