@@ -39,3 +39,15 @@ The safety of smart cities can be improved by identifying vehicles that are viol
 
 ### Final Verdict
 :parachute: `Yet To be Done`
+
+### Footnotes
+* We have weekly meetings over (Needs to decide)
+* I will be mainting this repository for my research on this project
+* I will be writing weekly basis srcum documentation in the respective week files
+
+### Want to connect with me?
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/jaskiratsingh2000/)
+- [Give a follow on GitHub](https://github.com/jaskiratsingh2000)
+- [Follow me at Twitter](https://twitter.com/jaskirat626)
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Jaskirat-red)](https://github.com/jaskiratsingh2000)
