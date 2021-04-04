@@ -19,8 +19,8 @@ The safety of smart cities can be improved by identifying vehicles that are viol
 [Prof. Arani Bhattacharya](https://www.iiitd.ac.in/arani), IIIT-Delhi
 
 > **NOTE:** There are some tags used below which have got the following meanings.
-> * `In Progress`: The work is in progress and is under development due to current state.
-> * `Yet To Be Done`: This indicates that it will be done in the future as it is yet to be implemented
+> * `In Progress`:clock2: The work is in progress and is under development due to current state.
+> * `Yet To Be Done`:hourglass:: This indicates that it will be done in the future as it is yet to be implemented
 
 ### Weekly Updates
 * Week 1 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
