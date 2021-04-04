@@ -6,15 +6,6 @@
     <a href="https://www.iiitd.ac.in"><img src="Assets/IIIT-Delhi Logo.png" width="900" alt="Indraprastha Institute of Information Technology Delhi(IIIT-Delhi)"></a>
 </div>
 
-<p align="center">
-	<a href="#project-abstract">Project Abstract</a> |
-	<a href="https://github.com/vchrombie/gsoc/issues?q=is%3Aissue">Discussions</a> |
-	<a href="#weekly-updates">Weekly Updates</a> |
-	<a href="#final-verdicts">Final Verdicts</a> |
-	<a href="#commits">Commits</a> |
-	<a href="#links">Links</a>
-</p>
-
 ### Table of Contents
 * [Project Abstract](#project-abstract)
 * [Project Advisor](#project-advisor)
@@ -25,17 +16,21 @@ The safety of smart cities can be improved by identifying vehicles that are viol
 ### Project Advisor
 [Prof. Arani Bhattacharya](https://www.iiitd.ac.in/arani), IIIT-Delhi
 
+> **NOTE:** There are some tags used below which have got the following meanings.
+> * `In Progress`: The work is in progress and is under development due to current state.
+> * `Yet To Be Done`: This indicates that it will be done in the future as it is yet to be implemented
+
 ### Weekly Updates
-* Week 1 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 2 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 3 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 4 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 5 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 6 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 7 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 8 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 9 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 10 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 11 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 12 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
-* Week 13 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports)
+* Week 1 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 2 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 3 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 4 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 5 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 6 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 7 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 8 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 9 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 10 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 11 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 12 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
+* Week 13 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) **`Yet To be Done`**
