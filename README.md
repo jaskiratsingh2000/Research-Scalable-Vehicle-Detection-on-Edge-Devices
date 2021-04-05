@@ -1,6 +1,6 @@
 <h1 align="center">Scalable Vehicle Detection on Edge Devices <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1>
 
-<p align="center"><i>A full report on my Research Internship work with <a href="https://www.iiitd.ac.in/arani">Prof. Arani Bhattacharya</a> at <a href="https://www.iiitd.ac.in">Indraprastha Institute of Information Technology Delhi(IIIT-Delhi)</a></i></p>
+<p align="center"><i>A repository on my Research Internship work with <a href="https://www.iiitd.ac.in/arani">Prof. Arani Bhattacharya</a> at <a href="https://www.iiitd.ac.in">Indraprastha Institute of Information Technology Delhi(IIIT-Delhi)</a></i></p>
 
 <div align="center">
     <a href="https://www.iiitd.ac.in"><img src="Assets/IIIT-Delhi Logo.png" width="900" alt="Indraprastha Institute of Information Technology Delhi(IIIT-Delhi)"></a>
