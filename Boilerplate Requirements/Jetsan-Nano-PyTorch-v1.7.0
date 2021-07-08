@@ -1,4 +1,6 @@
-For this research I was required to have PyTorch v1.7 on RPi4 but installing was the problem.
+## Installation of PyTorch v1.7.0 on Jetsan Nano
+
+For this research I was required to have PyTorch v1.7 on Jetsan Nano but installing was the problem.
 * PyTorch doesn’t have official ARMv7 or ARMv8 builds. While you can get PyTorch if you have NVIDIA Jetson hardware, there are no builds for other generic boards.😞
 
 Now the main issue on Jetsa Nano is that it is Python version 3.6 by default and due to this it also has package wheels fo this python distribution and hence since our work is on Pthon version 3.8.5 so we have to build from source
@@ -24,13 +26,13 @@ git clone --recursive --branch 1.7 http://github.com/pytorch/pytorch
 cd pytorch
 ```
 
-#### Installing requirements to build PyTorch
+### Installing requirements to build PyTorch
 * installing the requirements that are needed to build the pytorch
 ```
 python3.8 -m pip install -r requirements.txt
 ```
 
-#### Build PyTorch
+### Build PyTorch
 * setup.py is a python file, the presence of which is an indication that the module/package you are about to install has likely been packaged and distributed with Distutils, which is the standard for distributing Python Modules.
 ```
 python3.8 setup.py install --user
