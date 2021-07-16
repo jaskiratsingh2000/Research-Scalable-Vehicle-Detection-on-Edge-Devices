@@ -28,7 +28,7 @@ The safety of smart cities can be improved by identifying vehicles that are viol
 * Week 2 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
 * Week 3 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
 * Week 4 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
-* Week 5 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
+* Week 5 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To beDone`
 * Week 6 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
 * Week 7 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
 * Week 8 - [Weekly Report](https://github.com/jaskiratsingh2000/Research-Scalable-Vehicle-Detection-on-Edge-Devices/tree/main/Weekly%20Reports) `Yet To be Done`
